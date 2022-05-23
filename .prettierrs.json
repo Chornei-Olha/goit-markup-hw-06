@@ -10,3 +10,6 @@
   "arrowParens": "avoid",
   "proseWrap": "always"
 }
+"[css]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
