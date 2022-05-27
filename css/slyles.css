@@ -959,7 +959,10 @@
    .checkbox:checked+.checkbox-icon{
      background-color: var(--text-decoration-color);
      border: 2px solid transparent
+   }
 
+   .policy-link{
+     color: var(--text-decoration-color);
    }
 
    .submit{
